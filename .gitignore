@@ -1,6 +1,9 @@
 credentials.json
 parameters.json
-
+bin/
+obj/
+serverless.yml
+.serverless
 # Logs
 logs
 *.log
