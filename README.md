@@ -1,9 +1,11 @@
 # SCEPTER-service-template
 
-[![scepter-logo](http://res.cloudinary.com/source-4-society/image/upload/v1514622047/scepter_hzpcqt.png)](https://github.com/source4societyorg/SCEPTER-core)
+[![scepter-logo](http://res.cloudinary.com/source-4-society/image/upload/v1519221119/scepter_hzpcqt.png)](https://github.com/source4societyorg/SCEPTER-core)
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
+
 [![Build Status](https://travis-ci.org/source4societyorg/SCEPTER-service-template-csharp.svg?branch=master)](https://travis-ci.org/source4societyorg/SCEPTER-service-template-csharp)
+
 [![Serverless](http://public.serverless.com/badges/v1.svg)](http://serverless.com)
 
 This is a base template for building SCEPTER services in csharp. For more information, visit the main repository at [SCEPTER-Core](https://github.com/source4societyorg/SCEPTER-Core)
